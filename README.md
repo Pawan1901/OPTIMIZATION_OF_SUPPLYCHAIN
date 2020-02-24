@@ -1,7 +1,7 @@
 Dairy
 =====
 
-Simple Dairy Record Management System built with vanilla php as a Pro-Bono Project for a college student
+DRS DAIRY RECORD SYESTEM FOR TRACKING DETAILS CREATS
 
 ## Features 
 * Manage distributors
